@@ -1,0 +1,8 @@
+[2025-04-17 20:22:05.460118] AES Encrypted: C:\Users\gowth\Desktop\test.txt
+[2025-04-17 20:25:17.141897] AES Encrypted: test.txt
+[2025-04-17 20:27:39.227412] AES Decrypted: storage\encrypted\test.txt.enc
+[2025-04-17 20:27:58.937530] AES Encrypted: test.txt
+[2025-04-17 20:28:16.588486] AES Decrypted: storage\encrypted\test.txt.enc
+[2025-04-17 20:28:44.389425] AES Encrypted: test.txt
+[2025-04-17 20:29:03.387077] AES Encrypted: test.txt
+[2025-04-17 20:29:12.903463] AES Decrypted: storage\encrypted\test.txt.enc
