@@ -60,5 +60,6 @@ Ideal for non-technical users.
 Command-line interface for automation or terminal usage.
 
 Example usage:
+
       python main.py --encrypt path/to/file.txt --method aes --rounds 3
       python main.py --decrypt path/to/encrypted.bin --method rsa
