@@ -61,6 +61,8 @@ Ideal for non-technical users.
 
  ##output
    ![Image](https://github.com/user-attachments/assets/8eeeacbd-2d43-4079-ae2d-37134fd2f8c9)
+   ![Image](https://github.com/user-attachments/assets/502996bb-7aa6-4a89-bd10-f3f4189792d4)
+
 Command-line interface for automation or terminal usage.
 
 Example usage:
