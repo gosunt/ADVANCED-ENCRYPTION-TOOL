@@ -57,6 +57,10 @@ Allows users to encrypt/decrypt files using a graphical environment.
 Ideal for non-technical users.
 
  CLI Interface
+
+
+ ##output
+   ![Image](https://github.com/user-attachments/assets/8eeeacbd-2d43-4079-ae2d-37134fd2f8c9)
 Command-line interface for automation or terminal usage.
 
 Example usage:
